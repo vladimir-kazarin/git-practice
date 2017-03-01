@@ -58,6 +58,6 @@ New features have been developed in branches "I" and "J".  Your team's release a
 Once you've completed the above exercises push the repo to your personal github account.
 
 * Create an empty repository in your personal space (https://github.com/new) named "git-practice"
-
-
+* Setup the remote to your new repo (`git remote add my-repo [url for your repo]`)
+* Push all the branches to your personal repo with `git push --all my-repo`
 
